@@ -1,5 +1,5 @@
 # 2021 Introduction to Data Science
-Introduction to general software development - Microsoft Student Accelerator Program 2021
+Introduction to Data Science - Microsoft Student Accelerator Program 2021
 
 ## Agenda
 This workshop will cover foundational topics as an introduction to data science. We aim that by the end of this workshop, you will
@@ -16,7 +16,7 @@ Each topic covered in this workshop has their own folder in this repository whic
 # What to Bring
 * Laptop & charger and power extension cord
 * Snacks, lunch, and water
-
+* And a Fresh mind 😃
 # Prerequisites and preparation
 ## Software Needed
 
