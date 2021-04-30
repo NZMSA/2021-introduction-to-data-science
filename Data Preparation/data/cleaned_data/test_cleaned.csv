@@ -1,419 +1,419 @@
-,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,AgeImputed,Floor,EmbarkedImputed,AgeGroup,Surname,Title,FamilySize,FareBuckets
-0,892,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q,34.5,Ground Floor,Q,Adult,"Kelly,",Mr.,Alone,LQ
-1,893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1,0,363272,7.0,,S,47.0,Ground Floor,S,Adult,"Wilkes,",Mrs.,Alone,LQ
-2,894,2,"Myles, Mr. Thomas Francis",male,62.0,0,0,240276,9.6875,,Q,62.0,Ground Floor,Q,Adult,"Myles,",Mr.,Alone,IQ
-3,895,3,"Wirz, Mr. Albert",male,27.0,0,0,315154,8.6625,,S,27.0,Ground Floor,S,Adult,"Wirz,",Mr.,Alone,IQ
-4,896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22.0,1,1,3101298,12.2875,,S,22.0,Ground Floor,S,Adult,"Hirvonen,",Mrs.,Small,IQ
-5,897,3,"Svensson, Mr. Johan Cervin",male,14.0,0,0,7538,9.225,,S,14.0,Ground Floor,S,Teen,"Svensson,",Mr.,Alone,IQ
-6,898,3,"Connolly, Miss. Kate",female,30.0,0,0,330972,7.6292,,Q,30.0,Ground Floor,Q,Adult,"Connolly,",Miss.,Alone,LQ
-7,899,2,"Caldwell, Mr. Albert Francis",male,26.0,1,1,248738,29.0,,S,26.0,Ground Floor,S,Adult,"Caldwell,",Mr.,Small,IQ
-8,900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0,0,2657,7.2292,,C,18.0,Ground Floor,C,Teen,"Abrahim,",Mrs.,Alone,LQ
-9,901,3,"Davies, Mr. John Samuel",male,21.0,2,0,A/4 48871,24.15,,S,21.0,Ground Floor,S,Adult,"Davies,",Mr.,Small,IQ
-10,902,3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,S,0.33,Ground Floor,S,Child,"Ilieff,",Mr.,Alone,LQ
-11,903,1,"Jones, Mr. Charles Cresson",male,46.0,0,0,694,26.0,,S,46.0,Ground Floor,S,Adult,"Jones,",Mr.,Alone,IQ
-12,904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,21228,82.2667,B45,S,23.0,B,S,Adult,"Snyder,",Mrs.,Alone,UQ
-13,905,2,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,,S,63.0,Ground Floor,S,Adult,"Howard,",Mr.,Alone,IQ
-14,906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1,0,W.E.P. 5734,61.175,E31,S,47.0,E,S,Adult,"Chaffee,",Mrs.,Alone,UQ
-15,907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1,0,SC/PARIS 2167,27.7208,,C,24.0,Ground Floor,C,Adult,del,Mrs.,Alone,IQ
-16,908,2,"Keane, Mr. Daniel",male,35.0,0,0,233734,12.35,,Q,35.0,Ground Floor,Q,Adult,"Keane,",Mr.,Alone,IQ
-17,909,3,"Assaf, Mr. Gerios",male,21.0,0,0,2692,7.225,,C,21.0,Ground Floor,C,Adult,"Assaf,",Mr.,Alone,LQ
-18,910,3,"Ilmakangas, Miss. Ida Livija",female,27.0,1,0,STON/O2. 3101270,7.925,,S,27.0,Ground Floor,S,Adult,"Ilmakangas,",Miss.,Alone,LQ
-19,911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0,0,2696,7.225,,C,45.0,Ground Floor,C,Adult,Assaf,Mrs.,Alone,LQ
-20,912,1,"Rothschild, Mr. Martin",male,55.0,1,0,PC 17603,59.4,,C,55.0,Ground Floor,C,Adult,"Rothschild,",Mr.,Alone,UQ
-21,913,3,"Olsen, Master. Artur Karl",male,9.0,0,1,C 17368,3.1708,,S,9.0,Ground Floor,S,Child,"Olsen,",Master.,Alone,LQ
-22,914,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,PC 17598,31.6833,,S,17.0,Ground Floor,S,Teen,"Flegenheim,",Mrs.,Alone,UQ
-23,915,1,"Williams, Mr. Richard Norris II",male,21.0,0,1,PC 17597,61.3792,,C,21.0,Ground Floor,C,Adult,"Williams,",Mr.,Alone,UQ
-24,916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,48.0,B,C,Adult,"Ryerson,",Mrs.,Medium,Special
-25,917,3,"Robins, Mr. Alexander A",male,50.0,1,0,A/5. 3337,14.5,,S,50.0,Ground Floor,S,Adult,"Robins,",Mr.,Alone,IQ
-26,918,1,"Ostby, Miss. Helene Ragnhild",female,22.0,0,1,113509,61.9792,B36,C,22.0,B,C,Adult,"Ostby,",Miss.,Alone,UQ
-27,919,3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,C,22.5,Ground Floor,C,Adult,"Daher,",Mr.,Alone,LQ
-28,920,1,"Brady, Mr. John Bertram",male,41.0,0,0,113054,30.5,A21,S,41.0,A,S,Adult,"Brady,",Mr.,Alone,IQ
-29,921,3,"Samaan, Mr. Elias",male,,2,0,2662,21.6792,,C,25.0,Ground Floor,C,Adult,"Samaan,",Mr.,Small,IQ
-30,922,2,"Louch, Mr. Charles Alexander",male,50.0,1,0,SC/AH 3085,26.0,,S,50.0,Ground Floor,S,Adult,"Louch,",Mr.,Alone,IQ
-31,923,2,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,C.A. 31029,31.5,,S,24.0,Ground Floor,S,Adult,"Jefferys,",Mr.,Small,UQ
-32,924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,C.A. 2315,20.575,,S,33.0,Ground Floor,S,Adult,"Dean,",Mrs.,Small,IQ
-33,925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,1,2,W./C. 6607,23.45,,S,40.0,Ground Floor,S,Adult,"Johnston,",Mrs.,Small,IQ
-34,926,1,"Mock, Mr. Philipp Edmund",male,30.0,1,0,13236,57.75,C78,C,30.0,C,C,Adult,"Mock,",Mr.,Alone,UQ
-35,927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0,0,2682,7.2292,,C,18.5,Ground Floor,C,Teen,"Katavelas,",Mr.,Alone,LQ
-36,928,3,"Roth, Miss. Sarah A",female,,0,0,342712,8.05,,S,24.0,Ground Floor,S,Adult,"Roth,",Miss.,Alone,IQ
-37,929,3,"Cacic, Miss. Manda",female,21.0,0,0,315087,8.6625,,S,21.0,Ground Floor,S,Adult,"Cacic,",Miss.,Alone,IQ
-38,930,3,"Sap, Mr. Julius",male,25.0,0,0,345768,9.5,,S,25.0,Ground Floor,S,Adult,"Sap,",Mr.,Alone,IQ
-39,931,3,"Hee, Mr. Ling",male,,0,0,1601,56.4958,,S,18.5,Ground Floor,S,Teen,"Hee,",Mr.,Alone,UQ
-40,932,3,"Karun, Mr. Franz",male,39.0,0,1,349256,13.4167,,C,39.0,Ground Floor,C,Adult,"Karun,",Mr.,Alone,IQ
-41,933,1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,S,61.0,D,S,Adult,"Franklin,",Mr.,Alone,IQ
-42,934,3,"Goldsmith, Mr. Nathan",male,41.0,0,0,SOTON/O.Q. 3101263,7.85,,S,41.0,Ground Floor,S,Adult,"Goldsmith,",Mr.,Alone,LQ
-43,935,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,237249,13.0,,S,30.0,Ground Floor,S,Adult,"Corbett,",Mrs.,Alone,IQ
-44,936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,11753,52.5542,D19,S,45.0,D,S,Adult,"Kimball,",Mrs.,Alone,UQ
-45,937,3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,STON/O 2. 3101291,7.925,,S,25.0,Ground Floor,S,Adult,"Peltomaki,",Mr.,Alone,LQ
-46,938,1,"Chevre, Mr. Paul Romaine",male,45.0,0,0,PC 17594,29.7,A9,C,45.0,A,C,Adult,"Chevre,",Mr.,Alone,IQ
-47,939,3,"Shaughnessy, Mr. Patrick",male,,0,0,370374,7.75,,Q,22.0,Ground Floor,Q,Adult,"Shaughnessy,",Mr.,Alone,LQ
-48,940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,11813,76.2917,D15,C,60.0,D,C,Adult,"Bucknell,",Mrs.,Alone,UQ
-49,941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0,2,C.A. 37671,15.9,,S,36.0,Ground Floor,S,Adult,"Coutts,",Mrs.,Small,IQ
-50,942,1,"Smith, Mr. Lucien Philip",male,24.0,1,0,13695,60.0,C31,S,24.0,C,S,Adult,"Smith,",Mr.,Alone,UQ
-51,943,2,"Pulbaum, Mr. Franz",male,27.0,0,0,SC/PARIS 2168,15.0333,,C,27.0,Ground Floor,C,Adult,"Pulbaum,",Mr.,Alone,IQ
-52,944,2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2,1,29105,23.0,,S,20.0,Ground Floor,S,Teen,"Hocking,",Miss.,Small,IQ
-53,945,1,"Fortune, Miss. Ethel Flora",female,28.0,3,2,19950,263.0,C23 C25 C27,S,28.0,C,S,Adult,"Fortune,",Miss.,Medium,Special
-54,946,2,"Mangiavacchi, Mr. Serafino Emilio",male,,0,0,SC/A.3 2861,15.5792,,C,27.0,Ground Floor,C,Adult,"Mangiavacchi,",Mr.,Alone,IQ
-55,947,3,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,,Q,10.0,Ground Floor,Q,Child,"Rice,",Master.,Medium,IQ
-56,948,3,"Cor, Mr. Bartol",male,35.0,0,0,349230,7.8958,,S,35.0,Ground Floor,S,Adult,"Cor,",Mr.,Alone,LQ
-57,949,3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,S,25.0,F,S,Adult,"Abelseth,",Mr.,Alone,LQ
-58,950,3,"Davison, Mr. Thomas Henry",male,,1,0,386525,16.1,,S,60.5,Ground Floor,S,Adult,"Davison,",Mr.,Alone,IQ
-59,951,1,"Chaudanson, Miss. Victorine",female,36.0,0,0,PC 17608,262.375,B61,C,36.0,B,C,Adult,"Chaudanson,",Miss.,Alone,Special
-60,952,3,"Dika, Mr. Mirko",male,17.0,0,0,349232,7.8958,,S,17.0,Ground Floor,S,Teen,"Dika,",Mr.,Alone,LQ
-61,953,2,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,237216,13.5,,S,32.0,Ground Floor,S,Adult,"McCrae,",Mr.,Alone,IQ
-62,954,3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,347090,7.75,,S,18.0,Ground Floor,S,Teen,"Bjorklund,",Mr.,Alone,LQ
-63,955,3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,,Q,22.0,Ground Floor,Q,Adult,"Bradley,",Miss.,Alone,LQ
-64,956,1,"Ryerson, Master. John Borie",male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,13.0,B,C,Teen,"Ryerson,",Master.,Medium,Special
-65,957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0,0,F.C.C. 13534,21.0,,S,8.0,Ground Floor,S,Child,"Corey,",Mrs.,Alone,IQ
-66,958,3,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,,Q,18.0,Ground Floor,Q,Teen,"Burns,",Miss.,Alone,LQ
-67,959,1,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,113796,42.4,,S,47.0,Ground Floor,S,Adult,"Moore,",Mr.,Alone,UQ
-68,960,1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,2543,28.5375,C53,C,31.0,C,C,Adult,"Tucker,",Mr.,Alone,IQ
-69,961,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1,4,19950,263.0,C23 C25 C27,S,60.0,C,S,Adult,"Fortune,",Mrs.,Medium,Special
-70,962,3,"Mulvihill, Miss. Bertha E",female,24.0,0,0,382653,7.75,,Q,24.0,Ground Floor,Q,Adult,"Mulvihill,",Miss.,Alone,LQ
-71,963,3,"Minkoff, Mr. Lazar",male,21.0,0,0,349211,7.8958,,S,21.0,Ground Floor,S,Adult,"Minkoff,",Mr.,Alone,LQ
-72,964,3,"Nieminen, Miss. Manta Josefina",female,29.0,0,0,3101297,7.925,,S,29.0,Ground Floor,S,Adult,"Nieminen,",Miss.,Alone,LQ
-73,965,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,28.5,D,C,Adult,Ovies,Mr.,Alone,IQ
-74,966,1,"Geiger, Miss. Amalie",female,35.0,0,0,113503,211.5,C130,C,35.0,C,C,Adult,"Geiger,",Miss.,Alone,Special
-75,967,1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C,32.5,C,C,Adult,"Keeping,",Mr.,Alone,Special
-76,968,3,"Miles, Mr. Frank",male,,0,0,359306,8.05,,S,22.0,Ground Floor,S,Adult,"Miles,",Mr.,Alone,IQ
-77,969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,11770,25.7,C101,S,55.0,C,S,Adult,"Cornell,",Mrs.,Small,IQ
-78,970,2,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,248744,13.0,,S,30.0,Ground Floor,S,Adult,"Aldworth,",Mr.,Alone,IQ
-79,971,3,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,,Q,24.0,Ground Floor,Q,Adult,"Doyle,",Miss.,Alone,LQ
-80,972,3,"Boulos, Master. Akar",male,6.0,1,1,2678,15.2458,,C,6.0,Ground Floor,C,Child,"Boulos,",Master.,Small,IQ
-81,973,1,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,S,67.0,C,S,Elderly,"Straus,",Mr.,Alone,Special
-82,974,1,"Case, Mr. Howard Brown",male,49.0,0,0,19924,26.0,,S,49.0,Ground Floor,S,Adult,"Case,",Mr.,Alone,IQ
-83,975,3,"Demetri, Mr. Marinko",male,,0,0,349238,7.8958,,S,18.0,Ground Floor,S,Teen,"Demetri,",Mr.,Alone,LQ
-84,976,2,"Lamb, Mr. John Joseph",male,,0,0,240261,10.7083,,Q,40.0,Ground Floor,Q,Adult,"Lamb,",Mr.,Alone,IQ
-85,977,3,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,,C,24.0,Ground Floor,C,Adult,"Khalil,",Mr.,Alone,IQ
-86,978,3,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,,Q,27.0,Ground Floor,Q,Adult,"Barry,",Miss.,Alone,LQ
-87,979,3,"Badman, Miss. Emily Louisa",female,18.0,0,0,A/4 31416,8.05,,S,18.0,Ground Floor,S,Teen,"Badman,",Miss.,Alone,IQ
-88,980,3,"O'Donoghue, Ms. Bridget",female,,0,0,364856,7.75,,Q,1.0,Ground Floor,Q,Child,"O'Donoghue,",Miss.,Alone,LQ
-89,981,2,"Wells, Master. Ralph Lester",male,2.0,1,1,29103,23.0,,S,2.0,Ground Floor,S,Child,"Wells,",Master.,Small,IQ
-90,982,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,347072,13.9,,S,22.0,Ground Floor,S,Adult,"Dyker,",Mrs.,Alone,IQ
-91,983,3,"Pedersen, Mr. Olaf",male,,0,0,345498,7.775,,S,45.0,Ground Floor,S,Adult,"Pedersen,",Mr.,Alone,LQ
-92,984,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,F.C. 12750,52.0,B71,S,27.0,B,S,Adult,"Davidson,",Mrs.,Small,UQ
-93,985,3,"Guest, Mr. Robert",male,,0,0,376563,8.05,,S,60.5,Ground Floor,S,Adult,"Guest,",Mr.,Alone,IQ
-94,986,1,"Birnbaum, Mr. Jakob",male,25.0,0,0,13905,26.0,,C,25.0,Ground Floor,C,Adult,"Birnbaum,",Mr.,Alone,IQ
-95,987,3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,350033,7.7958,,S,25.0,Ground Floor,S,Adult,"Tenglin,",Mr.,Alone,LQ
-96,988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,19877,78.85,C46,S,76.0,C,S,Elderly,"Cavendish,",Mrs.,Alone,UQ
-97,989,3,"Makinen, Mr. Kalle Edvard",male,29.0,0,0,STON/O 2. 3101268,7.925,,S,29.0,Ground Floor,S,Adult,"Makinen,",Mr.,Alone,LQ
-98,990,3,"Braf, Miss. Elin Ester Maria",female,20.0,0,0,347471,7.8542,,S,20.0,Ground Floor,S,Teen,"Braf,",Miss.,Alone,LQ
-99,991,3,"Nancarrow, Mr. William Henry",male,33.0,0,0,A./5. 3338,8.05,,S,33.0,Ground Floor,S,Adult,"Nancarrow,",Mr.,Alone,IQ
-100,992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1,0,11778,55.4417,C116,C,43.0,C,C,Adult,"Stengel,",Mrs.,Alone,UQ
-101,993,2,"Weisz, Mr. Leopold",male,27.0,1,0,228414,26.0,,S,27.0,Ground Floor,S,Adult,"Weisz,",Mr.,Alone,IQ
-102,994,3,"Foley, Mr. William",male,,0,0,365235,7.75,,Q,16.0,Ground Floor,Q,Teen,"Foley,",Mr.,Alone,LQ
-103,995,3,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0,0,347070,7.775,,S,26.0,Ground Floor,S,Adult,Johansson,Mr.,Alone,LQ
-104,996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16.0,1,1,2625,8.5167,,C,16.0,Ground Floor,C,Teen,"Thomas,",Mrs.,Small,IQ
-105,997,3,"Holthen, Mr. Johan Martin",male,28.0,0,0,C 4001,22.525,,S,28.0,Ground Floor,S,Adult,"Holthen,",Mr.,Alone,IQ
-106,998,3,"Buckley, Mr. Daniel",male,21.0,0,0,330920,7.8208,,Q,21.0,Ground Floor,Q,Adult,"Buckley,",Mr.,Alone,LQ
-107,999,3,"Ryan, Mr. Edward",male,,0,0,383162,7.75,,Q,17.0,Ground Floor,Q,Teen,"Ryan,",Mr.,Alone,LQ
-108,1000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,,0,0,3410,8.7125,,S,26.5,Ground Floor,S,Adult,"Willer,",Mr.,Alone,IQ
-109,1001,2,"Swane, Mr. George",male,18.5,0,0,248734,13.0,F,S,18.5,F,S,Teen,"Swane,",Mr.,Alone,IQ
-110,1002,2,"Stanton, Mr. Samuel Ward",male,41.0,0,0,237734,15.0458,,C,41.0,Ground Floor,C,Adult,"Stanton,",Mr.,Alone,IQ
-111,1003,3,"Shine, Miss. Ellen Natalia",female,,0,0,330968,7.7792,,Q,35.0,Ground Floor,Q,Adult,"Shine,",Miss.,Alone,LQ
-112,1004,1,"Evans, Miss. Edith Corse",female,36.0,0,0,PC 17531,31.6792,A29,C,36.0,A,C,Adult,"Evans,",Miss.,Alone,UQ
-113,1005,3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Q,18.5,Ground Floor,Q,Teen,"Buckley,",Miss.,Alone,LQ
-114,1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,PC 17483,221.7792,C55 C57,S,63.0,C,S,Adult,"Straus,",Mrs.,Alone,Special
-115,1007,3,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,2680,14.4542,,C,18.0,Ground Floor,C,Teen,"Chronopoulos,",Mr.,Alone,IQ
-116,1008,3,"Thomas, Mr. John",male,,0,0,2681,6.4375,,C,27.0,Ground Floor,C,Adult,"Thomas,",Mr.,Alone,LQ
-117,1009,3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,PP 9549,16.7,G6,S,1.0,G,S,Child,"Sandstrom,",Miss.,Small,IQ
-118,1010,1,"Beattie, Mr. Thomson",male,36.0,0,0,13050,75.2417,C6,C,36.0,C,C,Adult,"Beattie,",Mr.,Alone,UQ
-119,1011,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,SC/AH 29037,26.0,,S,29.0,Ground Floor,S,Adult,"Chapman,",Mrs.,Alone,IQ
-120,1012,2,"Watt, Miss. Bertha J",female,12.0,0,0,C.A. 33595,15.75,,S,12.0,Ground Floor,S,Teen,"Watt,",Miss.,Alone,IQ
-121,1013,3,"Kiernan, Mr. John",male,,1,0,367227,7.75,,Q,1.0,Ground Floor,Q,Child,"Kiernan,",Mr.,Alone,LQ
-122,1014,1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,13236,57.75,C28,C,35.0,C,C,Adult,"Schabert,",Mrs.,Alone,UQ
-123,1015,3,"Carver, Mr. Alfred John",male,28.0,0,0,392095,7.25,,S,28.0,Ground Floor,S,Adult,"Carver,",Mr.,Alone,LQ
-124,1016,3,"Kennedy, Mr. John",male,,0,0,368783,7.75,,Q,33.0,Ground Floor,Q,Adult,"Kennedy,",Mr.,Alone,LQ
-125,1017,3,"Cribb, Miss. Laura Alice",female,17.0,0,1,371362,16.1,,S,17.0,Ground Floor,S,Teen,"Cribb,",Miss.,Alone,IQ
-126,1018,3,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,350045,7.7958,,S,22.0,Ground Floor,S,Adult,"Brobeck,",Mr.,Alone,LQ
-127,1019,3,"McCoy, Miss. Alicia",female,,2,0,367226,23.25,,Q,9.0,Ground Floor,Q,Child,"McCoy,",Miss.,Small,IQ
-128,1020,2,"Bowenur, Mr. Solomon",male,42.0,0,0,211535,13.0,,S,42.0,Ground Floor,S,Adult,"Bowenur,",Mr.,Alone,IQ
-129,1021,3,"Petersen, Mr. Marius",male,24.0,0,0,342441,8.05,,S,24.0,Ground Floor,S,Adult,"Petersen,",Mr.,Alone,IQ
-130,1022,3,"Spinner, Mr. Henry John",male,32.0,0,0,STON/OQ. 369943,8.05,,S,32.0,Ground Floor,S,Adult,"Spinner,",Mr.,Alone,IQ
-131,1023,1,"Gracie, Col. Archibald IV",male,53.0,0,0,113780,28.5,C51,C,53.0,C,C,Adult,"Gracie,",Other Titles,Alone,IQ
-132,1024,3,"Lefebre, Mrs. Frank (Frances)",female,,0,4,4133,25.4667,,S,17.0,Ground Floor,S,Teen,"Lefebre,",Mrs.,Medium,IQ
-133,1025,3,"Thomas, Mr. Charles P",male,,1,0,2621,6.4375,,C,28.0,Ground Floor,C,Adult,"Thomas,",Mr.,Alone,LQ
-134,1026,3,"Dintcheff, Mr. Valtcho",male,43.0,0,0,349226,7.8958,,S,43.0,Ground Floor,S,Adult,"Dintcheff,",Mr.,Alone,LQ
-135,1027,3,"Carlsson, Mr. Carl Robert",male,24.0,0,0,350409,7.8542,,S,24.0,Ground Floor,S,Adult,"Carlsson,",Mr.,Alone,LQ
-136,1028,3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,C,26.5,Ground Floor,C,Adult,"Zakarian,",Mr.,Alone,LQ
-137,1029,2,"Schmidt, Mr. August",male,26.0,0,0,248659,13.0,,S,26.0,Ground Floor,S,Adult,"Schmidt,",Mr.,Alone,IQ
-138,1030,3,"Drapkin, Miss. Jennie",female,23.0,0,0,SOTON/OQ 392083,8.05,,S,23.0,Ground Floor,S,Adult,"Drapkin,",Miss.,Alone,IQ
-139,1031,3,"Goodwin, Mr. Charles Frederick",male,40.0,1,6,CA 2144,46.9,,S,40.0,Ground Floor,S,Adult,"Goodwin,",Mr.,Large,UQ
-140,1032,3,"Goodwin, Miss. Jessie Allis",female,10.0,5,2,CA 2144,46.9,,S,10.0,Ground Floor,S,Child,"Goodwin,",Miss.,Large,UQ
-141,1033,1,"Daniels, Miss. Sarah",female,33.0,0,0,113781,151.55,,S,33.0,Ground Floor,S,Adult,"Daniels,",Miss.,Alone,Special
-142,1034,1,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,61.0,B,C,Adult,"Ryerson,",Mr.,Medium,Special
-143,1035,2,"Beauchamp, Mr. Henry James",male,28.0,0,0,244358,26.0,,S,28.0,Ground Floor,S,Adult,"Beauchamp,",Mr.,Alone,IQ
-144,1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0,0,17475,26.55,,S,42.0,Ground Floor,S,Adult,"Lindeberg-Lind,",Mr.,Alone,IQ
-145,1037,3,"Vander Planke, Mr. Julius",male,31.0,3,0,345763,18.0,,S,31.0,Ground Floor,S,Adult,Vander,Mr.,Small,IQ
-146,1038,1,"Hilliard, Mr. Herbert Henry",male,,0,0,17463,51.8625,E46,S,41.0,E,S,Adult,"Hilliard,",Mr.,Alone,UQ
-147,1039,3,"Davies, Mr. Evan",male,22.0,0,0,SC/A4 23568,8.05,,S,22.0,Ground Floor,S,Adult,"Davies,",Mr.,Alone,IQ
-148,1040,1,"Crafton, Mr. John Bertram",male,,0,0,113791,26.55,,S,48.0,Ground Floor,S,Adult,"Crafton,",Mr.,Alone,IQ
-149,1041,2,"Lahtinen, Rev. William",male,30.0,1,1,250651,26.0,,S,30.0,Ground Floor,S,Adult,"Lahtinen,",Other Titles,Small,IQ
-150,1042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0,1,11767,83.1583,C54,C,23.0,C,C,Adult,"Earnshaw,",Mrs.,Alone,UQ
-151,1043,3,"Matinoff, Mr. Nicola",male,,0,0,349255,7.8958,,C,27.0,Ground Floor,C,Adult,"Matinoff,",Mr.,Alone,LQ
-152,1044,3,"Storey, Mr. Thomas",male,60.5,0,0,3701,0.0,,S,60.5,Ground Floor,S,Adult,"Storey,",Mr.,Alone,LQ
-153,1045,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0,2,350405,12.1833,,S,36.0,Ground Floor,S,Adult,"Klasen,",Mrs.,Small,IQ
-154,1046,3,"Asplund, Master. Filip Oscar",male,13.0,4,2,347077,31.3875,,S,13.0,Ground Floor,S,Teen,"Asplund,",Master.,Medium,UQ
-155,1047,3,"Duquemin, Mr. Joseph",male,24.0,0,0,S.O./P.P. 752,7.55,,S,24.0,Ground Floor,S,Adult,"Duquemin,",Mr.,Alone,LQ
-156,1048,1,"Bird, Miss. Ellen",female,29.0,0,0,PC 17483,221.7792,C97,S,29.0,C,S,Adult,"Bird,",Miss.,Alone,Special
-157,1049,3,"Lundin, Miss. Olga Elida",female,23.0,0,0,347469,7.8542,,S,23.0,Ground Floor,S,Adult,"Lundin,",Miss.,Alone,LQ
-158,1050,1,"Borebank, Mr. John James",male,42.0,0,0,110489,26.55,D22,S,42.0,D,S,Adult,"Borebank,",Mr.,Alone,IQ
-159,1051,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0,2,SOTON/O.Q. 3101315,13.775,,S,26.0,Ground Floor,S,Adult,"Peacock,",Mrs.,Small,IQ
-160,1052,3,"Smyth, Miss. Julia",female,,0,0,335432,7.7333,,Q,29.0,Ground Floor,Q,Adult,"Smyth,",Miss.,Alone,LQ
-161,1053,3,"Touma, Master. Georges Youssef",male,7.0,1,1,2650,15.2458,,C,7.0,Ground Floor,C,Child,"Touma,",Master.,Small,IQ
-162,1054,2,"Wright, Miss. Marion",female,26.0,0,0,220844,13.5,,S,26.0,Ground Floor,S,Adult,"Wright,",Miss.,Alone,IQ
-163,1055,3,"Pearce, Mr. Ernest",male,,0,0,343271,7.0,,S,0.83,Ground Floor,S,Child,"Pearce,",Mr.,Alone,LQ
-164,1056,2,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,237393,13.0,,S,41.0,Ground Floor,S,Adult,"Peruschitz,",Other Titles,Alone,IQ
-165,1057,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,315153,22.025,,S,26.0,Ground Floor,S,Adult,"Kink-Heilmann,",Mrs.,Small,IQ
-166,1058,1,"Brandeis, Mr. Emil",male,48.0,0,0,PC 17591,50.4958,B10,C,48.0,B,C,Adult,"Brandeis,",Mr.,Alone,UQ
-167,1059,3,"Ford, Mr. Edward Watson",male,18.0,2,2,W./C. 6608,34.375,,S,18.0,Ground Floor,S,Teen,"Ford,",Mr.,Medium,UQ
-168,1060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,0,0,17770,27.7208,,C,47.0,Ground Floor,C,Adult,"Cassebeer,",Mrs.,Alone,IQ
-169,1061,3,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,7548,8.9625,,S,22.0,Ground Floor,S,Adult,"Hellstrom,",Miss.,Alone,IQ
-170,1062,3,"Lithman, Mr. Simon",male,,0,0,S.O./P.P. 251,7.55,,S,36.0,Ground Floor,S,Adult,"Lithman,",Mr.,Alone,LQ
-171,1063,3,"Zakarian, Mr. Ortin",male,27.0,0,0,2670,7.225,,C,27.0,Ground Floor,C,Adult,"Zakarian,",Mr.,Alone,LQ
-172,1064,3,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,347072,13.9,,S,23.0,Ground Floor,S,Adult,"Dyker,",Mr.,Alone,IQ
-173,1065,3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,C,11.5,Ground Floor,C,Teen,"Torfa,",Mr.,Alone,LQ
-174,1066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,347077,31.3875,,S,40.0,Ground Floor,S,Adult,"Asplund,",Mr.,Medium,UQ
-175,1067,2,"Brown, Miss. Edith Eileen",female,15.0,0,2,29750,39.0,,S,15.0,Ground Floor,S,Teen,"Brown,",Miss.,Small,UQ
-176,1068,2,"Sincock, Miss. Maude",female,20.0,0,0,C.A. 33112,36.75,,S,20.0,Ground Floor,S,Teen,"Sincock,",Miss.,Alone,UQ
-177,1069,1,"Stengel, Mr. Charles Emil Henry",male,54.0,1,0,11778,55.4417,C116,C,54.0,C,C,Adult,"Stengel,",Mr.,Alone,UQ
-178,1070,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0,3,230136,39.0,F4,S,36.0,F,S,Adult,"Becker,",Mrs.,Small,UQ
-179,1071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0,2,PC 17756,83.1583,E45,C,64.0,E,C,Adult,"Compton,",Mrs.,Small,UQ
-180,1072,2,"McCrie, Mr. James Matthew",male,30.0,0,0,233478,13.0,,S,30.0,Ground Floor,S,Adult,"McCrie,",Mr.,Alone,IQ
-181,1073,1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,PC 17756,83.1583,E52,C,37.0,E,C,Adult,"Compton,",Mr.,Small,UQ
-182,1074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,113773,53.1,D30,S,18.0,D,S,Teen,"Marvin,",Mrs.,Alone,UQ
-183,1075,3,"Lane, Mr. Patrick",male,,0,0,7935,7.75,,Q,25.0,Ground Floor,Q,Adult,"Lane,",Mr.,Alone,LQ
-184,1076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,PC 17558,247.5208,B58 B60,C,27.0,B,C,Adult,"Douglas,",Mrs.,Small,Special
-185,1077,2,"Maybery, Mr. Frank Hubert",male,40.0,0,0,239059,16.0,,S,40.0,Ground Floor,S,Adult,"Maybery,",Mr.,Alone,IQ
-186,1078,2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,S.O./P.P. 2,21.0,,S,21.0,Ground Floor,S,Adult,"Phillips,",Miss.,Alone,IQ
-187,1079,3,"Davies, Mr. Joseph",male,17.0,2,0,A/4 48873,8.05,,S,17.0,Ground Floor,S,Teen,"Davies,",Mr.,Small,IQ
-188,1080,3,"Sage, Miss. Ada",female,,8,2,CA. 2343,69.55,,S,25.0,Ground Floor,S,Adult,"Sage,",Miss.,Large,UQ
-189,1081,2,"Veal, Mr. James",male,40.0,0,0,28221,13.0,,S,40.0,Ground Floor,S,Adult,"Veal,",Mr.,Alone,IQ
-190,1082,2,"Angle, Mr. William A",male,34.0,1,0,226875,26.0,,S,34.0,Ground Floor,S,Adult,"Angle,",Mr.,Alone,IQ
-191,1083,1,"Salomon, Mr. Abraham L",male,,0,0,111163,26.0,,S,45.0,Ground Floor,S,Adult,"Salomon,",Mr.,Alone,IQ
-192,1084,3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,S,11.5,Ground Floor,S,Teen,van,Master.,Small,IQ
-193,1085,2,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,Q,61.0,Ground Floor,Q,Adult,"Lingane,",Mr.,Alone,IQ
-194,1086,2,"Drew, Master. Marshall Brines",male,8.0,0,2,28220,32.5,,S,8.0,Ground Floor,S,Child,"Drew,",Master.,Small,UQ
-195,1087,3,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0,0,347465,7.8542,,S,33.0,Ground Floor,S,Adult,"Karlsson,",Mr.,Alone,LQ
-196,1088,1,"Spedden, Master. Robert Douglas",male,6.0,0,2,16966,134.5,E34,C,6.0,E,C,Child,"Spedden,",Master.,Small,Special
-197,1089,3,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,347066,7.775,,S,18.0,Ground Floor,S,Teen,"Nilsson,",Miss.,Alone,LQ
-198,1090,2,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,C.A. 31030,10.5,,S,23.0,Ground Floor,S,Adult,"Baimbrigge,",Mr.,Alone,IQ
-199,1091,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0,0,65305,8.1125,,S,21.0,Ground Floor,S,Adult,"Rasmussen,",Mrs.,Alone,IQ
-200,1092,3,"Murphy, Miss. Nora",female,,0,0,36568,15.5,,Q,36.0,Ground Floor,Q,Adult,"Murphy,",Miss.,Alone,IQ
-201,1093,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,347080,14.4,,S,0.33,Ground Floor,S,Child,"Danbom,",Master.,Small,IQ
-202,1094,1,"Astor, Col. John Jacob",male,47.0,1,0,PC 17757,227.525,C62 C64,C,47.0,C,C,Adult,"Astor,",Other Titles,Alone,Special
-203,1095,2,"Quick, Miss. Winifred Vera",female,8.0,1,1,26360,26.0,,S,8.0,Ground Floor,S,Child,"Quick,",Miss.,Small,IQ
-204,1096,2,"Andrew, Mr. Frank Thomas",male,25.0,0,0,C.A. 34050,10.5,,S,25.0,Ground Floor,S,Adult,"Andrew,",Mr.,Alone,IQ
-205,1097,1,"Omont, Mr. Alfred Fernand",male,,0,0,F.C. 12998,25.7417,,C,30.0,Ground Floor,C,Adult,"Omont,",Mr.,Alone,IQ
-206,1098,3,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,,Q,35.0,Ground Floor,Q,Adult,"McGowan,",Miss.,Alone,LQ
-207,1099,2,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,28034,10.5,,S,24.0,Ground Floor,S,Adult,"Collett,",Mr.,Alone,IQ
-208,1100,1,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,PC 17613,27.7208,A11,C,33.0,A,C,Adult,"Rosenbaum,",Miss.,Alone,IQ
-209,1101,3,"Delalic, Mr. Redjo",male,25.0,0,0,349250,7.8958,,S,25.0,Ground Floor,S,Adult,"Delalic,",Mr.,Alone,LQ
-210,1102,3,"Andersen, Mr. Albert Karvin",male,32.0,0,0,C 4001,22.525,,S,32.0,Ground Floor,S,Adult,"Andersen,",Mr.,Alone,IQ
-211,1103,3,"Finoli, Mr. Luigi",male,,0,0,SOTON/O.Q. 3101308,7.05,,S,27.0,Ground Floor,S,Adult,"Finoli,",Mr.,Alone,LQ
-212,1104,2,"Deacon, Mr. Percy William",male,17.0,0,0,S.O.C. 14879,73.5,,S,17.0,Ground Floor,S,Teen,"Deacon,",Mr.,Alone,UQ
-213,1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,24065,26.0,,S,60.0,Ground Floor,S,Adult,"Howard,",Mrs.,Alone,IQ
-214,1106,3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,347091,7.775,,S,38.0,Ground Floor,S,Adult,"Andersson,",Miss.,Medium,LQ
-215,1107,1,"Head, Mr. Christopher",male,42.0,0,0,113038,42.5,B11,S,42.0,B,S,Adult,"Head,",Mr.,Alone,UQ
-216,1108,3,"Mahon, Miss. Bridget Delia",female,,0,0,330924,7.8792,,Q,23.0,Ground Floor,Q,Adult,"Mahon,",Miss.,Alone,LQ
-217,1109,1,"Wick, Mr. George Dennick",male,57.0,1,1,36928,164.8667,,S,57.0,Ground Floor,S,Adult,"Wick,",Mr.,Small,Special
-218,1110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,113503,211.5,C80,C,50.0,C,C,Adult,"Widener,",Mrs.,Small,Special
-219,1111,3,"Thomson, Mr. Alexander Morrison",male,,0,0,32302,8.05,,S,18.0,Ground Floor,S,Teen,"Thomson,",Mr.,Alone,IQ
-220,1112,2,"Duran y More, Miss. Florentina",female,30.0,1,0,SC/PARIS 2148,13.8583,,C,30.0,Ground Floor,C,Adult,Duran,Miss.,Alone,IQ
-221,1113,3,"Reynolds, Mr. Harold J",male,21.0,0,0,342684,8.05,,S,21.0,Ground Floor,S,Adult,"Reynolds,",Mr.,Alone,IQ
-222,1114,2,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,W./C. 14266,10.5,F33,S,22.0,F,S,Adult,"Cook,",Mrs.,Alone,IQ
-223,1115,3,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,350053,7.7958,,S,21.0,Ground Floor,S,Adult,"Karlsson,",Mr.,Alone,LQ
-224,1116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,PC 17606,27.4458,,C,53.0,Ground Floor,C,Adult,"Candee,",Mrs.,Alone,IQ
-225,1117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,0,2,2661,15.2458,,C,19.0,Ground Floor,C,Teen,"Moubarek,",Mrs.,Small,IQ
-226,1118,3,"Asplund, Mr. Johan Charles",male,23.0,0,0,350054,7.7958,,S,23.0,Ground Floor,S,Adult,"Asplund,",Mr.,Alone,LQ
-227,1119,3,"McNeill, Miss. Bridget",female,,0,0,370368,7.75,,Q,20.0,Ground Floor,Q,Teen,"McNeill,",Miss.,Alone,LQ
-228,1120,3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,S,40.5,Ground Floor,S,Adult,"Everett,",Mr.,Alone,IQ
-229,1121,2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,242963,13.0,,S,36.0,Ground Floor,S,Adult,"Hocking,",Mr.,Alone,IQ
-230,1122,2,"Sweet, Mr. George Frederick",male,14.0,0,0,220845,65.0,,S,14.0,Ground Floor,S,Teen,"Sweet,",Mr.,Alone,UQ
-231,1123,1,"Willard, Miss. Constance",female,21.0,0,0,113795,26.55,,S,21.0,Ground Floor,S,Adult,"Willard,",Miss.,Alone,IQ
-232,1124,3,"Wiklund, Mr. Karl Johan",male,21.0,1,0,3101266,6.4958,,S,21.0,Ground Floor,S,Adult,"Wiklund,",Mr.,Alone,LQ
-233,1125,3,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,,Q,23.0,Ground Floor,Q,Adult,"Linehan,",Mr.,Alone,LQ
-234,1126,1,"Cumings, Mr. John Bradley",male,39.0,1,0,PC 17599,71.2833,C85,C,39.0,C,C,Adult,"Cumings,",Mr.,Alone,UQ
-235,1127,3,"Vendel, Mr. Olof Edvin",male,20.0,0,0,350416,7.8542,,S,20.0,Ground Floor,S,Teen,"Vendel,",Mr.,Alone,LQ
-236,1128,1,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,C,64.0,D,C,Adult,"Warren,",Mr.,Alone,UQ
-237,1129,3,"Baccos, Mr. Raffull",male,20.0,0,0,2679,7.225,,C,20.0,Ground Floor,C,Teen,"Baccos,",Mr.,Alone,LQ
-238,1130,2,"Hiltunen, Miss. Marta",female,18.0,1,1,250650,13.0,,S,18.0,Ground Floor,S,Teen,"Hiltunen,",Miss.,Small,IQ
-239,1131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1,0,PC 17761,106.425,C86,C,48.0,C,C,Adult,"Douglas,",Mrs.,Alone,Special
-240,1132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,112377,27.7208,,C,55.0,Ground Floor,C,Adult,"Lindstrom,",Mrs.,Alone,IQ
-241,1133,2,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,237789,30.0,,S,45.0,Ground Floor,S,Adult,"Christy,",Mrs.,Small,IQ
-242,1134,1,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,16966,134.5,E34,C,45.0,E,C,Adult,"Spedden,",Mr.,Small,Special
-243,1135,3,"Hyman, Mr. Abraham",male,,0,0,3470,7.8875,,S,22.0,Ground Floor,S,Adult,"Hyman,",Mr.,Alone,LQ
-244,1136,3,"Johnston, Master. William Arthur Willie""""",male,,1,2,W./C. 6607,23.45,,S,23.0,Ground Floor,S,Adult,"Johnston,",Master.,Small,IQ
-245,1137,1,"Kenyon, Mr. Frederick R",male,41.0,1,0,17464,51.8625,D21,S,41.0,D,S,Adult,"Kenyon,",Mr.,Alone,UQ
-246,1138,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,F.C.C. 13534,21.0,,S,22.0,Ground Floor,S,Adult,"Karnes,",Mrs.,Alone,IQ
-247,1139,2,"Drew, Mr. James Vivian",male,42.0,1,1,28220,32.5,,S,42.0,Ground Floor,S,Adult,"Drew,",Mr.,Small,UQ
-248,1140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,26707,26.0,,S,29.0,Ground Floor,S,Adult,"Hold,",Mrs.,Alone,IQ
-249,1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,1,0,2660,14.4542,,C,45.0,Ground Floor,C,Adult,"Khalil,",Mrs.,Alone,IQ
-250,1142,2,"West, Miss. Barbara J",female,0.92,1,2,C.A. 34651,27.75,,S,0.92,Ground Floor,S,Child,"West,",Miss.,Small,IQ
-251,1143,3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,SOTON/O2 3101284,7.925,,S,20.0,Ground Floor,S,Teen,"Abrahamsson,",Mr.,Alone,LQ
-252,1144,1,"Clark, Mr. Walter Miller",male,27.0,1,0,13508,136.7792,C89,C,27.0,C,C,Adult,"Clark,",Mr.,Alone,Special
-253,1145,3,"Salander, Mr. Karl Johan",male,24.0,0,0,7266,9.325,,S,24.0,Ground Floor,S,Adult,"Salander,",Mr.,Alone,IQ
-254,1146,3,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,,S,32.5,Ground Floor,S,Adult,"Wenzel,",Mr.,Alone,IQ
-255,1147,3,"MacKay, Mr. George William",male,,0,0,C.A. 42795,7.55,,S,39.0,Ground Floor,S,Adult,"MacKay,",Mr.,Alone,LQ
-256,1148,3,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,,Q,0.83,Ground Floor,Q,Child,"Mahon,",Mr.,Alone,LQ
-257,1149,3,"Niklasson, Mr. Samuel",male,28.0,0,0,363611,8.05,,S,28.0,Ground Floor,S,Adult,"Niklasson,",Mr.,Alone,IQ
-258,1150,2,"Bentham, Miss. Lilian W",female,19.0,0,0,28404,13.0,,S,19.0,Ground Floor,S,Teen,"Bentham,",Miss.,Alone,IQ
-259,1151,3,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,345501,7.775,,S,21.0,Ground Floor,S,Adult,"Midtsjo,",Mr.,Alone,LQ
-260,1152,3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,S,36.5,Ground Floor,S,Adult,de,Mr.,Alone,IQ
-261,1153,3,"Nilsson, Mr. August Ferdinand",male,21.0,0,0,350410,7.8542,,S,21.0,Ground Floor,S,Adult,"Nilsson,",Mr.,Alone,LQ
-262,1154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0,2,29103,23.0,,S,29.0,Ground Floor,S,Adult,"Wells,",Mrs.,Small,IQ
-263,1155,3,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,350405,12.1833,,S,1.0,Ground Floor,S,Child,"Klasen,",Miss.,Small,IQ
-264,1156,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,C.A. 34644,12.7375,,C,30.0,Ground Floor,C,Adult,"Portaluppi,",Mr.,Alone,IQ
-265,1157,3,"Lyntakoff, Mr. Stanko",male,,0,0,349235,7.8958,,S,1.0,Ground Floor,S,Child,"Lyntakoff,",Mr.,Alone,LQ
-266,1158,1,"Chisholm, Mr. Roderick Robert Crispin",male,,0,0,112051,0.0,,S,39.0,Ground Floor,S,Adult,"Chisholm,",Mr.,Alone,LQ
-267,1159,3,"Warren, Mr. Charles William",male,,0,0,C.A. 49867,7.55,,S,27.0,Ground Floor,S,Adult,"Warren,",Mr.,Alone,LQ
-268,1160,3,"Howard, Miss. May Elizabeth",female,,0,0,A. 2. 39186,8.05,,S,0.83,Ground Floor,S,Child,"Howard,",Miss.,Alone,IQ
-269,1161,3,"Pokrnic, Mr. Mate",male,17.0,0,0,315095,8.6625,,S,17.0,Ground Floor,S,Teen,"Pokrnic,",Mr.,Alone,IQ
-270,1162,1,"McCaffry, Mr. Thomas Francis",male,46.0,0,0,13050,75.2417,C6,C,46.0,C,C,Adult,"McCaffry,",Mr.,Alone,UQ
-271,1163,3,"Fox, Mr. Patrick",male,,0,0,368573,7.75,,Q,21.0,Ground Floor,Q,Adult,"Fox,",Mr.,Alone,LQ
-272,1164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1,0,13508,136.7792,C89,C,26.0,C,C,Adult,"Clark,",Mrs.,Alone,Special
-273,1165,3,"Lennon, Miss. Mary",female,,1,0,370371,15.5,,Q,20.0,Ground Floor,Q,Teen,"Lennon,",Miss.,Alone,IQ
-274,1166,3,"Saade, Mr. Jean Nassr",male,,0,0,2676,7.225,,C,24.0,Ground Floor,C,Adult,"Saade,",Mr.,Alone,LQ
-275,1167,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1,0,236853,26.0,,S,20.0,Ground Floor,S,Teen,"Bryhl,",Miss.,Alone,IQ
-276,1168,2,"Parker, Mr. Clifford Richard",male,28.0,0,0,SC 14888,10.5,,S,28.0,Ground Floor,S,Adult,"Parker,",Mr.,Alone,IQ
-277,1169,2,"Faunthorpe, Mr. Harry",male,40.0,1,0,2926,26.0,,S,40.0,Ground Floor,S,Adult,"Faunthorpe,",Mr.,Alone,IQ
-278,1170,2,"Ware, Mr. John James",male,30.0,1,0,CA 31352,21.0,,S,30.0,Ground Floor,S,Adult,"Ware,",Mr.,Alone,IQ
-279,1171,2,"Oxenham, Mr. Percy Thomas",male,22.0,0,0,W./C. 14260,10.5,,S,22.0,Ground Floor,S,Adult,"Oxenham,",Mr.,Alone,IQ
-280,1172,3,"Oreskovic, Miss. Jelka",female,23.0,0,0,315085,8.6625,,S,23.0,Ground Floor,S,Adult,"Oreskovic,",Miss.,Alone,IQ
-281,1173,3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,S,0.75,Ground Floor,S,Child,"Peacock,",Master.,Small,IQ
-282,1174,3,"Fleming, Miss. Honora",female,,0,0,364859,7.75,,Q,23.0,Ground Floor,Q,Adult,"Fleming,",Miss.,Alone,LQ
-283,1175,3,"Touma, Miss. Maria Youssef",female,9.0,1,1,2650,15.2458,,C,9.0,Ground Floor,C,Child,"Touma,",Miss.,Small,IQ
-284,1176,3,"Rosblom, Miss. Salli Helena",female,2.0,1,1,370129,20.2125,,S,2.0,Ground Floor,S,Child,"Rosblom,",Miss.,Small,IQ
-285,1177,3,"Dennis, Mr. William",male,36.0,0,0,A/5 21175,7.25,,S,36.0,Ground Floor,S,Adult,"Dennis,",Mr.,Alone,LQ
-286,1178,3,"Franklin, Mr. Charles (Charles Fardon)",male,,0,0,SOTON/O.Q. 3101314,7.25,,S,18.0,Ground Floor,S,Teen,"Franklin,",Mr.,Alone,LQ
-287,1179,1,"Snyder, Mr. John Pillsbury",male,24.0,1,0,21228,82.2667,B45,S,24.0,B,S,Adult,"Snyder,",Mr.,Alone,UQ
-288,1180,3,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,F E46,C,26.0,F,C,Adult,"Mardirosian,",Mr.,Alone,LQ
-289,1181,3,"Ford, Mr. Arthur",male,,0,0,A/5 1478,8.05,,S,60.5,Ground Floor,S,Adult,"Ford,",Mr.,Alone,IQ
-290,1182,1,"Rheims, Mr. George Alexander Lucien",male,,0,0,PC 17607,39.6,,S,35.0,Ground Floor,S,Adult,"Rheims,",Mr.,Alone,UQ
-291,1183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,382650,6.95,,Q,30.0,Ground Floor,Q,Adult,"Daly,",Miss.,Alone,LQ
-292,1184,3,"Nasr, Mr. Mustafa",male,,0,0,2652,7.2292,,C,36.0,Ground Floor,C,Adult,"Nasr,",Mr.,Alone,LQ
-293,1185,1,"Dodge, Dr. Washington",male,53.0,1,1,33638,81.8583,A34,S,53.0,A,S,Adult,"Dodge,",Other Titles,Small,UQ
-294,1186,3,"Wittevrongel, Mr. Camille",male,36.0,0,0,345771,9.5,,S,36.0,Ground Floor,S,Adult,"Wittevrongel,",Mr.,Alone,IQ
-295,1187,3,"Angheloff, Mr. Minko",male,26.0,0,0,349202,7.8958,,S,26.0,Ground Floor,S,Adult,"Angheloff,",Mr.,Alone,LQ
-296,1188,2,"Laroche, Miss. Louise",female,1.0,1,2,SC/Paris 2123,41.5792,,C,1.0,Ground Floor,C,Child,"Laroche,",Miss.,Small,UQ
-297,1189,3,"Samaan, Mr. Hanna",male,,2,0,2662,21.6792,,C,36.0,Ground Floor,C,Adult,"Samaan,",Mr.,Small,IQ
-298,1190,1,"Loring, Mr. Joseph Holland",male,30.0,0,0,113801,45.5,,S,30.0,Ground Floor,S,Adult,"Loring,",Mr.,Alone,UQ
-299,1191,3,"Johansson, Mr. Nils",male,29.0,0,0,347467,7.8542,,S,29.0,Ground Floor,S,Adult,"Johansson,",Mr.,Alone,LQ
-300,1192,3,"Olsson, Mr. Oscar Wilhelm",male,32.0,0,0,347079,7.775,,S,32.0,Ground Floor,S,Adult,"Olsson,",Mr.,Alone,LQ
-301,1193,2,"Malachard, Mr. Noel",male,,0,0,237735,15.0458,D,C,12.0,D,C,Teen,"Malachard,",Mr.,Alone,IQ
-302,1194,2,"Phillips, Mr. Escott Robert",male,43.0,0,1,S.O./P.P. 2,21.0,,S,43.0,Ground Floor,S,Adult,"Phillips,",Mr.,Alone,IQ
-303,1195,3,"Pokrnic, Mr. Tome",male,24.0,0,0,315092,8.6625,,S,24.0,Ground Floor,S,Adult,"Pokrnic,",Mr.,Alone,IQ
-304,1196,3,"McCarthy, Miss. Catherine Katie""""",female,,0,0,383123,7.75,,Q,36.0,Ground Floor,Q,Adult,"McCarthy,",Miss.,Alone,LQ
-305,1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1,1,112901,26.55,B26,S,64.0,B,S,Adult,"Crosby,",Mrs.,Small,IQ
-306,1198,1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,113781,151.55,C22 C26,S,30.0,C,S,Adult,"Allison,",Mr.,Small,Special
-307,1199,3,"Aks, Master. Philip Frank",male,0.83,0,1,392091,9.35,,S,0.83,Ground Floor,S,Child,"Aks,",Master.,Alone,IQ
-308,1200,1,"Hays, Mr. Charles Melville",male,55.0,1,1,12749,93.5,B69,S,55.0,B,S,Adult,"Hays,",Mr.,Small,UQ
-309,1201,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1,0,350026,14.1083,,S,45.0,Ground Floor,S,Adult,"Hansen,",Mrs.,Alone,IQ
-310,1202,3,"Cacic, Mr. Jego Grga",male,18.0,0,0,315091,8.6625,,S,18.0,Ground Floor,S,Teen,"Cacic,",Mr.,Alone,IQ
-311,1203,3,"Vartanian, Mr. David",male,22.0,0,0,2658,7.225,,C,22.0,Ground Floor,C,Adult,"Vartanian,",Mr.,Alone,LQ
-312,1204,3,"Sadowitz, Mr. Harry",male,,0,0,LP 1588,7.575,,S,38.5,Ground Floor,S,Adult,"Sadowitz,",Mr.,Alone,LQ
-313,1205,3,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,,Q,37.0,Ground Floor,Q,Adult,"Carr,",Miss.,Alone,LQ
-314,1206,1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,PC 17760,135.6333,C32,C,55.0,C,C,Adult,"White,",Mrs.,Alone,Special
-315,1207,3,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,,Q,17.0,Ground Floor,Q,Teen,"Hagardon,",Miss.,Alone,LQ
-316,1208,1,"Spencer, Mr. William Augustus",male,57.0,1,0,PC 17569,146.5208,B78,C,57.0,B,C,Adult,"Spencer,",Mr.,Alone,Special
-317,1209,2,"Rogers, Mr. Reginald Harry",male,19.0,0,0,28004,10.5,,S,19.0,Ground Floor,S,Teen,"Rogers,",Mr.,Alone,IQ
-318,1210,3,"Jonsson, Mr. Nils Hilding",male,27.0,0,0,350408,7.8542,,S,27.0,Ground Floor,S,Adult,"Jonsson,",Mr.,Alone,LQ
-319,1211,2,"Jefferys, Mr. Ernest Wilfred",male,22.0,2,0,C.A. 31029,31.5,,S,22.0,Ground Floor,S,Adult,"Jefferys,",Mr.,Small,UQ
-320,1212,3,"Andersson, Mr. Johan Samuel",male,26.0,0,0,347075,7.775,,S,26.0,Ground Floor,S,Adult,"Andersson,",Mr.,Alone,LQ
-321,1213,3,"Krekorian, Mr. Neshan",male,25.0,0,0,2654,7.2292,F E57,C,25.0,F,C,Adult,"Krekorian,",Mr.,Alone,LQ
-322,1214,2,"Nesson, Mr. Israel",male,26.0,0,0,244368,13.0,F2,S,26.0,F,S,Adult,"Nesson,",Mr.,Alone,IQ
-323,1215,1,"Rowe, Mr. Alfred G",male,33.0,0,0,113790,26.55,,S,33.0,Ground Floor,S,Adult,"Rowe,",Mr.,Alone,IQ
-324,1216,1,"Kreuchen, Miss. Emilie",female,39.0,0,0,24160,211.3375,,S,39.0,Ground Floor,S,Adult,"Kreuchen,",Miss.,Alone,Special
-325,1217,3,"Assam, Mr. Ali",male,23.0,0,0,SOTON/O.Q. 3101309,7.05,,S,23.0,Ground Floor,S,Adult,"Assam,",Mr.,Alone,LQ
-326,1218,2,"Becker, Miss. Ruth Elizabeth",female,12.0,2,1,230136,39.0,F4,S,12.0,F,S,Teen,"Becker,",Miss.,Small,UQ
-327,1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46.0,0,0,PC 17585,79.2,,C,46.0,Ground Floor,C,Adult,"Rosenshine,",Mr.,Alone,UQ
-328,1220,2,"Clarke, Mr. Charles Valentine",male,29.0,1,0,2003,26.0,,S,29.0,Ground Floor,S,Adult,"Clarke,",Mr.,Alone,IQ
-329,1221,2,"Enander, Mr. Ingvar",male,21.0,0,0,236854,13.0,,S,21.0,Ground Floor,S,Adult,"Enander,",Mr.,Alone,IQ
-330,1222,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,C.A. 33112,36.75,,S,48.0,Ground Floor,S,Adult,"Davies,",Mrs.,Small,UQ
-331,1223,1,"Dulles, Mr. William Crothers",male,39.0,0,0,PC 17580,29.7,A18,C,39.0,A,C,Adult,"Dulles,",Mr.,Alone,IQ
-332,1224,3,"Thomas, Mr. Tannous",male,,0,0,2684,7.225,,C,21.0,Ground Floor,C,Adult,"Thomas,",Mr.,Alone,LQ
-333,1225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1,1,2653,15.7417,,C,19.0,Ground Floor,C,Teen,"Nakid,",Mrs.,Small,IQ
-334,1226,3,"Cor, Mr. Ivan",male,27.0,0,0,349229,7.8958,,S,27.0,Ground Floor,S,Adult,"Cor,",Mr.,Alone,LQ
-335,1227,1,"Maguire, Mr. John Edward",male,30.0,0,0,110469,26.0,C106,S,30.0,C,S,Adult,"Maguire,",Mr.,Alone,IQ
-336,1228,2,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,244360,13.0,,S,32.0,Ground Floor,S,Adult,de,Mr.,Alone,IQ
-337,1229,3,"Elias, Mr. Joseph",male,39.0,0,2,2675,7.2292,,C,39.0,Ground Floor,C,Adult,"Elias,",Mr.,Small,LQ
-338,1230,2,"Denbury, Mr. Herbert",male,25.0,0,0,C.A. 31029,31.5,,S,25.0,Ground Floor,S,Adult,"Denbury,",Mr.,Alone,UQ
-339,1231,3,"Betros, Master. Seman",male,,0,0,2622,7.2292,,C,30.0,Ground Floor,C,Adult,"Betros,",Master.,Alone,LQ
-340,1232,2,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,C.A. 15185,10.5,,S,18.0,Ground Floor,S,Teen,"Fillbrook,",Mr.,Alone,IQ
-341,1233,3,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,350403,7.5792,,S,32.0,Ground Floor,S,Adult,"Lundstrom,",Mr.,Alone,LQ
-342,1234,3,"Sage, Mr. John George",male,,1,9,CA. 2343,69.55,,S,18.0,Ground Floor,S,Teen,"Sage,",Mr.,Large,UQ
-343,1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,C,58.0,B,C,Adult,"Cardeza,",Mrs.,Alone,Special
-344,1236,3,"van Billiard, Master. James William",male,,1,1,A/5. 851,14.5,,S,9.0,Ground Floor,S,Child,van,Master.,Small,IQ
-345,1237,3,"Abelseth, Miss. Karen Marie",female,16.0,0,0,348125,7.65,,S,16.0,Ground Floor,S,Teen,"Abelseth,",Miss.,Alone,LQ
-346,1238,2,"Botsford, Mr. William Hull",male,26.0,0,0,237670,13.0,,S,26.0,Ground Floor,S,Adult,"Botsford,",Mr.,Alone,IQ
-347,1239,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,2688,7.2292,,C,38.0,Ground Floor,C,Adult,"Whabee,",Mrs.,Alone,LQ
-348,1240,2,"Giles, Mr. Ralph",male,24.0,0,0,248726,13.5,,S,24.0,Ground Floor,S,Adult,"Giles,",Mr.,Alone,IQ
-349,1241,2,"Walcroft, Miss. Nellie",female,31.0,0,0,F.C.C. 13528,21.0,,S,31.0,Ground Floor,S,Adult,"Walcroft,",Miss.,Alone,IQ
-350,1242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0,1,PC 17759,63.3583,D10 D12,C,45.0,D,C,Adult,"Greenfield,",Mrs.,Alone,UQ
-351,1243,2,"Stokes, Mr. Philip Joseph",male,25.0,0,0,F.C.C. 13540,10.5,,S,25.0,Ground Floor,S,Adult,"Stokes,",Mr.,Alone,IQ
-352,1244,2,"Dibden, Mr. William",male,18.0,0,0,S.O.C. 14879,73.5,,S,18.0,Ground Floor,S,Teen,"Dibden,",Mr.,Alone,UQ
-353,1245,2,"Herman, Mr. Samuel",male,49.0,1,2,220845,65.0,,S,49.0,Ground Floor,S,Adult,"Herman,",Mr.,Small,UQ
-354,1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,C.A. 2315,20.575,,S,0.17,Ground Floor,S,Child,"Dean,",Miss.,Small,IQ
-355,1247,1,"Julian, Mr. Henry Forbes",male,50.0,0,0,113044,26.0,E60,S,50.0,E,S,Adult,"Julian,",Mr.,Alone,IQ
-356,1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,11769,51.4792,C101,S,59.0,C,S,Adult,"Brown,",Mrs.,Small,UQ
-357,1249,3,"Lockyer, Mr. Edward",male,,0,0,1222,7.8792,,S,21.0,Ground Floor,S,Adult,"Lockyer,",Mr.,Alone,LQ
-358,1250,3,"O'Keefe, Mr. Patrick",male,,0,0,368402,7.75,,Q,27.0,Ground Floor,Q,Adult,"O'Keefe,",Mr.,Alone,LQ
-359,1251,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,349910,15.55,,S,30.0,Ground Floor,S,Adult,"Lindell,",Mrs.,Alone,IQ
-360,1252,3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,S,14.5,Ground Floor,S,Teen,"Sage,",Master.,Large,UQ
-361,1253,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,S.C./PARIS 2079,37.0042,,C,24.0,Ground Floor,C,Adult,"Mallet,",Mrs.,Small,UQ
-362,1254,2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,CA 31352,21.0,,S,31.0,Ground Floor,S,Adult,"Ware,",Mrs.,Alone,IQ
-363,1255,3,"Strilic, Mr. Ivan",male,27.0,0,0,315083,8.6625,,S,27.0,Ground Floor,S,Adult,"Strilic,",Mr.,Alone,IQ
-364,1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,11765,55.4417,E50,C,25.0,E,C,Adult,"Harder,",Mrs.,Alone,UQ
-365,1257,3,"Sage, Mrs. John (Annie Bullen)",female,,1,9,CA. 2343,69.55,,S,18.0,Ground Floor,S,Teen,"Sage,",Mrs.,Large,UQ
-366,1258,3,"Caram, Mr. Joseph",male,,1,0,2689,14.4583,,C,23.0,Ground Floor,C,Adult,"Caram,",Mr.,Alone,IQ
-367,1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0,0,3101295,39.6875,,S,22.0,Ground Floor,S,Adult,"Riihivouri,",Miss.,Alone,UQ
-368,1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,112378,59.4,,C,45.0,Ground Floor,C,Adult,"Gibson,",Mrs.,Alone,UQ
-369,1261,2,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,SC/PARIS 2147,13.8583,,C,29.0,Ground Floor,C,Adult,Pallas,Mr.,Alone,IQ
-370,1262,2,"Giles, Mr. Edgar",male,21.0,1,0,28133,11.5,,S,21.0,Ground Floor,S,Adult,"Giles,",Mr.,Alone,IQ
-371,1263,1,"Wilson, Miss. Helen Alice",female,31.0,0,0,16966,134.5,E39 E41,C,31.0,E,C,Adult,"Wilson,",Miss.,Alone,Special
-372,1264,1,"Ismay, Mr. Joseph Bruce",male,49.0,0,0,112058,0.0,B52 B54 B56,S,49.0,B,S,Adult,"Ismay,",Mr.,Alone,LQ
-373,1265,2,"Harbeck, Mr. William H",male,44.0,0,0,248746,13.0,,S,44.0,Ground Floor,S,Adult,"Harbeck,",Mr.,Alone,IQ
-374,1266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1,1,33638,81.8583,A34,S,54.0,A,S,Adult,"Dodge,",Mrs.,Small,UQ
-375,1267,1,"Bowen, Miss. Grace Scott",female,45.0,0,0,PC 17608,262.375,,C,45.0,Ground Floor,C,Adult,"Bowen,",Miss.,Alone,Special
-376,1268,3,"Kink, Miss. Maria",female,22.0,2,0,315152,8.6625,,S,22.0,Ground Floor,S,Adult,"Kink,",Miss.,Small,IQ
-377,1269,2,"Cotterill, Mr. Henry Harry""""",male,21.0,0,0,29107,11.5,,S,21.0,Ground Floor,S,Adult,"Cotterill,",Mr.,Alone,IQ
-378,1270,1,"Hipkins, Mr. William Edward",male,55.0,0,0,680,50.0,C39,S,55.0,C,S,Adult,"Hipkins,",Mr.,Alone,UQ
-379,1271,3,"Asplund, Master. Carl Edgar",male,5.0,4,2,347077,31.3875,,S,5.0,Ground Floor,S,Child,"Asplund,",Master.,Medium,UQ
-380,1272,3,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,,Q,18.0,Ground Floor,Q,Teen,"O'Connor,",Mr.,Alone,LQ
-381,1273,3,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,,Q,26.0,Ground Floor,Q,Adult,"Foley,",Mr.,Alone,LQ
-382,1274,3,"Risien, Mrs. Samuel (Emma)",female,,0,0,364498,14.5,,S,3.0,Ground Floor,S,Child,"Risien,",Mrs.,Alone,IQ
-383,1275,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,376566,16.1,,S,19.0,Ground Floor,S,Teen,"McNamee,",Mrs.,Alone,IQ
-384,1276,2,"Wheeler, Mr. Edwin Frederick""""",male,,0,0,SC/PARIS 2159,12.875,,S,49.0,Ground Floor,S,Adult,"Wheeler,",Mr.,Alone,IQ
-385,1277,2,"Herman, Miss. Kate",female,24.0,1,2,220845,65.0,,S,24.0,Ground Floor,S,Adult,"Herman,",Miss.,Small,UQ
-386,1278,3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,349911,7.775,,S,24.0,Ground Floor,S,Adult,"Aronsson,",Mr.,Alone,LQ
-387,1279,2,"Ashby, Mr. John",male,57.0,0,0,244346,13.0,,S,57.0,Ground Floor,S,Adult,"Ashby,",Mr.,Alone,IQ
-388,1280,3,"Canavan, Mr. Patrick",male,21.0,0,0,364858,7.75,,Q,21.0,Ground Floor,Q,Adult,"Canavan,",Mr.,Alone,LQ
-389,1281,3,"Palsson, Master. Paul Folke",male,6.0,3,1,349909,21.075,,S,6.0,Ground Floor,S,Child,"Palsson,",Master.,Medium,IQ
-390,1282,1,"Payne, Mr. Vivian Ponsonby",male,23.0,0,0,12749,93.5,B24,S,23.0,B,S,Adult,"Payne,",Mr.,Alone,UQ
-391,1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0,1,PC 17592,39.4,D28,S,51.0,D,S,Adult,"Lines,",Mrs.,Alone,UQ
-392,1284,3,"Abbott, Master. Eugene Joseph",male,13.0,0,2,C.A. 2673,20.25,,S,13.0,Ground Floor,S,Teen,"Abbott,",Master.,Small,IQ
-393,1285,2,"Gilbert, Mr. William",male,47.0,0,0,C.A. 30769,10.5,,S,47.0,Ground Floor,S,Adult,"Gilbert,",Mr.,Alone,IQ
-394,1286,3,"Kink-Heilmann, Mr. Anton",male,29.0,3,1,315153,22.025,,S,29.0,Ground Floor,S,Adult,"Kink-Heilmann,",Mr.,Medium,IQ
-395,1287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1,0,13695,60.0,C31,S,18.0,C,S,Teen,"Smith,",Mrs.,Alone,UQ
-396,1288,3,"Colbert, Mr. Patrick",male,24.0,0,0,371109,7.25,,Q,24.0,Ground Floor,Q,Adult,"Colbert,",Mr.,Alone,LQ
-397,1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1,1,13567,79.2,B41,C,48.0,B,C,Adult,"Frolicher-Stehli,",Mrs.,Small,UQ
-398,1290,3,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0,0,347065,7.775,,S,22.0,Ground Floor,S,Adult,"Larsson-Rondberg,",Mr.,Alone,LQ
-399,1291,3,"Conlon, Mr. Thomas Henry",male,31.0,0,0,21332,7.7333,,Q,31.0,Ground Floor,Q,Adult,"Conlon,",Mr.,Alone,LQ
-400,1292,1,"Bonnell, Miss. Caroline",female,30.0,0,0,36928,164.8667,C7,S,30.0,C,S,Adult,"Bonnell,",Miss.,Alone,Special
-401,1293,2,"Gale, Mr. Harry",male,38.0,1,0,28664,21.0,,S,38.0,Ground Floor,S,Adult,"Gale,",Mr.,Alone,IQ
-402,1294,1,"Gibson, Miss. Dorothy Winifred",female,22.0,0,1,112378,59.4,,C,22.0,Ground Floor,C,Adult,"Gibson,",Miss.,Alone,UQ
-403,1295,1,"Carrau, Mr. Jose Pedro",male,17.0,0,0,113059,47.1,,S,17.0,Ground Floor,S,Teen,"Carrau,",Mr.,Alone,UQ
-404,1296,1,"Frauenthal, Mr. Isaac Gerald",male,43.0,1,0,17765,27.7208,D40,C,43.0,D,C,Adult,"Frauenthal,",Mr.,Alone,IQ
-405,1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0,0,SC/PARIS 2166,13.8625,D38,C,20.0,D,C,Teen,"Nourney,",Mr.,Alone,IQ
-406,1298,2,"Ware, Mr. William Jeffery",male,23.0,1,0,28666,10.5,,S,23.0,Ground Floor,S,Adult,"Ware,",Mr.,Alone,IQ
-407,1299,1,"Widener, Mr. George Dunton",male,50.0,1,1,113503,211.5,C80,C,50.0,C,C,Adult,"Widener,",Mr.,Small,Special
-408,1300,3,"Riordan, Miss. Johanna Hannah""""",female,,0,0,334915,7.7208,,Q,28.0,Ground Floor,Q,Adult,"Riordan,",Miss.,Alone,LQ
-409,1301,3,"Peacock, Miss. Treasteall",female,3.0,1,1,SOTON/O.Q. 3101315,13.775,,S,3.0,Ground Floor,S,Child,"Peacock,",Miss.,Small,IQ
-410,1302,3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,Q,22.0,Ground Floor,Q,Adult,"Naughton,",Miss.,Alone,LQ
-411,1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,Q,37.0,C,Q,Adult,"Minahan,",Mrs.,Alone,UQ
-412,1304,3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,347086,7.775,,S,28.0,Ground Floor,S,Adult,"Henriksson,",Miss.,Alone,LQ
-413,1305,3,"Spector, Mr. Woolf",male,,0,0,A.5. 3236,8.05,,S,22.5,Ground Floor,S,Adult,"Spector,",Mr.,Alone,IQ
-414,1306,1,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,PC 17758,108.9,C105,C,39.0,C,C,Adult,Oliva,Other Titles,Alone,Special
-415,1307,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S,38.5,Ground Floor,S,Adult,"Saether,",Mr.,Alone,LQ
-416,1308,3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S,31.0,Ground Floor,S,Adult,"Ware,",Mr.,Alone,IQ
-417,1309,3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C,16.0,Ground Floor,C,Teen,"Peter,",Master.,Small,IQ
+Pclass,Fare,AgeGroup,FareBuckets,FamilySize,Sex_female,Sex_male,EmbarkedImputed_C,EmbarkedImputed_Q,EmbarkedImputed_S,Floor_A,Floor_B,Floor_C,Floor_D,Floor_E,Floor_F,Floor_G,Floor_Ground Floor,Title_Master.,Title_Miss.,Title_Mr.,Title_Mrs.,Title_Other Titles,Floor_T
+3,7.8292,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,9.6875,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.6625,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,12.2875,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,9.225,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.6292,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,29.0,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,24.15,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8958,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,82.2667,2,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,61.175,2,2,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,27.7208,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,12.35,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.925,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.225,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,59.4,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,3.1708,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,31.6833,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,61.3792,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,262.375,2,3,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+3,14.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,61.9792,2,2,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,30.5,2,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3,21.6792,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,31.5,2,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,20.575,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,23.45,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,57.75,2,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,7.2292,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.6625,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,9.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,56.4958,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,13.4167,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.55,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3,7.85,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,52.5542,2,2,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3,7.925,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,29.7,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,76.2917,2,2,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3,15.9,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,60.0,2,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2,15.0333,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,23.0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,263.0,2,3,2,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,15.5792,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,29.125,0,1,2,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.65,2,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+3,16.1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,262.375,2,3,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+3,7.8958,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.725,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,262.375,1,3,2,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2,21.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.8792,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,42.4,2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,28.5375,2,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+1,263.0,2,3,2,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.925,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,27.7208,2,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,211.5,2,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+1,211.5,2,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,25.7,2,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,15.2458,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,221.7792,3,3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+1,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,10.7083,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,14.4542,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8792,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.05,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.75,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,23.0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,13.9,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,52.0,2,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.0,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.7958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,78.85,3,2,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.925,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8542,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,55.4417,2,2,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.5167,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,22.525,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8208,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.7125,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+2,15.0458,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.7792,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,31.6792,2,2,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,7.2833,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,221.7792,2,3,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,14.4542,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,6.4375,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,16.7,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+1,75.2417,2,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2,26.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,15.75,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,57.75,2,2,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.25,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,16.1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.7958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,23.25,2,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,28.5,2,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+3,25.4667,2,1,2,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,6.4375,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8542,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,46.9,2,2,3,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,46.9,0,2,3,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,151.55,2,3,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,262.375,2,3,2,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.55,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,18.0,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,51.8625,2,2,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.55,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+1,83.1583,2,2,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.8958,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,0.0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,12.1833,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,31.3875,1,2,2,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.55,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,221.7792,2,3,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+3,7.8542,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,26.55,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3,13.775,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.7333,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,15.2458,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2,13.5,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+3,22.025,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,50.4958,2,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3,34.375,1,2,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,27.7208,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,8.9625,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.55,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,13.9,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,31.3875,2,2,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,39.0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,36.75,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,55.4417,2,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2,39.0,2,2,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+1,83.1583,2,2,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,83.1583,2,2,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,53.1,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,247.5208,2,3,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2,16.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,21.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.05,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,69.55,2,2,3,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,14.5,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2,12.35,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,32.5,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.8542,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,134.5,0,3,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+3,7.775,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.1125,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,15.5,2,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,14.4,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,227.525,2,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2,26.0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,25.7417,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,27.7208,2,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,22.525,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.05,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,73.5,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.775,2,0,2,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,42.5,2,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3,7.8792,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,164.8667,2,3,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,211.5,2,3,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.8583,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,10.5,2,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+3,7.7958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,27.4458,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,15.2458,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.7958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,15.1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,65.0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.55,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,6.4958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8792,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,71.2833,2,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,7.8542,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,75.25,2,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3,7.225,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,106.425,2,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+1,27.7208,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,30.0,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,134.5,2,3,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3,7.8875,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,23.45,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,51.8625,2,2,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2,21.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,32.5,2,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,14.4542,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,27.75,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.925,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,136.7792,2,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,9.325,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,9.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.55,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,17.4,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8542,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,23.0,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,12.1833,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,12.7375,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,0.0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.55,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.6625,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,75.2417,2,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,136.7792,2,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,15.5,2,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,21.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.6625,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,13.775,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,15.2458,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,20.2125,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.25,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.25,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,82.2667,2,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3,7.2292,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,39.6,2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,6.95,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.2292,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,81.8583,2,2,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,41.5792,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,21.6792,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,45.5,2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8542,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,15.0458,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2,21.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.6625,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,26.55,2,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+1,151.55,2,3,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,9.35,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,93.5,2,2,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3,14.1083,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,8.6625,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.575,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,135.6333,2,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.7333,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,146.5208,2,3,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2,10.5,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8542,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,31.5,2,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+1,26.55,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,211.3375,2,3,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.05,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,39.0,1,2,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+1,79.2,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,26.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,36.75,2,2,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1,29.7,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3,7.225,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,15.7417,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,7.8958,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,26.0,2,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,31.5,2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2,10.5,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.5792,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,69.55,2,2,3,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,512.3292,2,3,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+3,14.5,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.65,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.2292,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,13.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,21.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,63.3583,2,2,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,73.5,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,65.0,2,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,20.575,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,26.0,2,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,51.4792,2,2,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.8792,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,15.55,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,69.55,1,2,3,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2,37.0042,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,21.0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,8.6625,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,55.4417,2,2,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+3,69.55,1,2,3,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,14.4583,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,39.6875,2,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,59.4,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,13.8583,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,11.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,134.5,2,3,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+1,0.0,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,81.8583,2,2,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,262.375,2,3,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.6625,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2,11.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,50.0,2,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,31.3875,0,2,2,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+3,7.75,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.8792,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,14.5,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+3,16.1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+2,12.875,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,65.0,2,2,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2,13.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.75,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,21.075,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+1,93.5,2,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+1,39.4,2,2,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3,20.25,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,22.025,2,1,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,60.0,1,2,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.25,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,79.2,2,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+3,7.775,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,7.7333,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,164.8667,2,3,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,21.0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,59.4,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,47.1,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,27.7208,2,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2,13.8625,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2,10.5,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,211.5,2,3,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,7.7208,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,13.775,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,7.75,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1,90.0,2,2,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3,7.775,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+1,108.9,2,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+3,7.25,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,8.05,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+3,22.3583,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
